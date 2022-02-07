@@ -36,15 +36,16 @@
             visibility: hidden;
         }
     }
+    
     /* Some more css for graphics improvement */
     
-    .float-container {
-        align-content: center;
-    }
-    
     .float-child {
-        width: 50%;
-        float: left;
+        margin:auto ;
+        width:max-content;
+        padding-top: 2%;
+        padding-bottom: 2%;
+
+       
     }
     
     .login {
